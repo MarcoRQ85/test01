@@ -1,3 +1,16 @@
-.test {
-    display: inline-block;
+* {
+    margin: 0;
+    padding: 0;
+    outline: 0;
+    -webkit-overflow-scrolling: touch;
+}
+
+.highlight {
+    background: #0984e3;
+    padding: 0 20px 0 20px;
+}
+
+.list-reset {
+    list-style: none;
+    padding: 0;
 }
