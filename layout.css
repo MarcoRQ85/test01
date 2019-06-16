@@ -1,3 +1,5 @@
 .test {
-    color: #000;
+    color: red;
+    font-size: 24px;
+    display: block;
 }
